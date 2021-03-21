@@ -42,7 +42,7 @@ export const homeObjTheree = {
   buttonLabel: "Take a look",
   imgStart: "start",
   img:
-    "https://github.com/edgarrincon/standards/blob/main/src/img/logo.png?raw=true",
+    "https://raw.githubusercontent.com/edgarrincon/standards/main/src/img/logo.png",
   alt: "Edgar Rincon",
   linkTo: "./",
   buttonSize: "btn--wide",

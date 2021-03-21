@@ -9,7 +9,7 @@ export const homeObjOne = {
   buttonLabel: "Get Started",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/7ea7660fd8181baac402c92331cf7cc88cac086a/src/img/odooanalitic.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/odooanalitic.svg",
   alt: "odoo Consultant",
   linkTo: "./contacts",
   buttonSize: "btn--wide",
