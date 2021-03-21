@@ -8,7 +8,7 @@ export const homeObjOne = {
   buttonLabel: "Take a look",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/f1145b8ee173d168d121c93e4f2f5a2858eaf450/src/images/html5.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/f1145b8ee173d168d121c93e4f2f5a2858eaf450/src/img/html5.svg",
   alt: "html5",
   linkTo: "./portfolio",
   buttonSize: "btn--wide",
@@ -25,7 +25,7 @@ export const homeObjTwo = {
   buttonLabel: "Contact Us",
   imgStart: "start",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/f1145b8ee173d168d121c93e4f2f5a2858eaf450/src/images/react.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/f1145b8ee173d168d121c93e4f2f5a2858eaf450/src/img/react.svg",
   alt: "React",
   linkTo: "./contacts",
   buttonSize: "btn--wide",
@@ -42,7 +42,7 @@ export const homeObjThree = {
   buttonLabel: "Learn More",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/images/superOpenSource.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/img/superOpenSource.svg",
   alt: "Open Source",
   linkTo: "./opensource",
   buttonSize: "btn--wide",
@@ -60,7 +60,7 @@ export const homeObjFour = {
   buttonLabel: "Choose a plan",
   imgStart: "start",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/images/wordpress.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/img/wordpress.svg",
   alt: "WordPress",
   linkTo: "./contacts",
   buttonSize: "btn--wide",
@@ -78,7 +78,7 @@ export const homeObjFive = {
   buttonLabel: "Let's do it",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/images/woocommerce.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/img/woocommerce.svg",
   alt: "WooCommerces",
   linkTo: "./contacts",
   buttonSize: "btn--wide",
@@ -96,7 +96,7 @@ export const homeObjSix = {
   buttonLabel: "meets Odoo",
   imgStart: "start",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/images/odoo.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/9bc52b745ab60b2a5cd004a0d5cd8bad7d3be095/src/img/odoo.svg",
   alt: "Odoo ERP",
   linkTo: "./odoo",
   buttonSize: "btn--wide",
@@ -113,7 +113,7 @@ export const homeObjSeven = {
   buttonLabel: "go to Piso4",
   imgStart: "",
   img:
-    "https://github.com/edgarrincon/standards/blob/main/src/images/piso4.jpg?raw=true",
+    "https://github.com/edgarrincon/standards/blob/main/src/img/piso4.jpg?raw=true",
   alt: "Piso 4",
   linkTo: "./piso4",
   buttonSize: "btn--wide",

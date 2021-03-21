@@ -67,7 +67,7 @@ function Pricing() {
                 <h4>$299</h4>
                 <p>React Site</p>
                 <ul className="pricing__container-features">
-                  <li>Informative and fast sites</li>
+                  <li>Informative and fast</li>
                   <li>Adaptable to your needs</li>
                   <li>Domain and Hosting (1 year)</li>
                 </ul>

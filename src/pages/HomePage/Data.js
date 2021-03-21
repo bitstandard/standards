@@ -9,7 +9,7 @@ export const homeObjOne = {
   buttonLabel: "Contact Us",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/a61bf6379e17a1ee2ba77cb2c432a756d8e1a0f4/src/images/webpage.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/a61bf6379e17a1ee2ba77cb2c432a756d8e1a0f4/src/img/webpage.svg",
   alt: "Web Page",
   linkTo: "./contacts",
   buttonSize: "btn--wide",
@@ -25,7 +25,7 @@ export const homeObjTwo = {
   buttonLabel: "Discover it",
   imgStart: "start",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/a61bf6379e17a1ee2ba77cb2c432a756d8e1a0f4/src/images/needs.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/a61bf6379e17a1ee2ba77cb2c432a756d8e1a0f4/src/img/needs.svg",
   alt: "accordin needs",
   linkTo: "./portfolio",
   buttonSize: "btn--wide",
@@ -43,7 +43,7 @@ export const homeObjThree = {
   buttonLabel: "Services",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/5533007b7c39fb4bd147c595ccf581ed5279f318/src/images/ecommerce.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/5533007b7c39fb4bd147c595ccf581ed5279f318/src/img/ecommerce.svg",
   alt: "eCommerce",
   linkTo: "./service",
   buttonSize: "btn--wide",
@@ -61,7 +61,7 @@ export const homeObjFour = {
   buttonLabel: "meets Odoo",
   imgStart: "start",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/8ff24a727411b966c259bb8edf2838dd690e6504/src/images/daterealtime.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/8ff24a727411b966c259bb8edf2838dd690e6504/src/img/daterealtime.svg",
   alt: "real time date",
   linkTo: "./odoo",
   buttonSize: "btn--wide",
@@ -78,7 +78,7 @@ export const homeObjFive = {
   buttonLabel: "Tell Us",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/8ff24a727411b966c259bb8edf2838dd690e6504/src/images/anyquestion.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/8ff24a727411b966c259bb8edf2838dd690e6504/src/img/anyquestion.svg",
   alt: "question?",
   linkTo: "./contacts",
   buttonSize: "btn--wide",

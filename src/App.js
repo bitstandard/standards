@@ -70,6 +70,13 @@ function App() {
           }}
         />
         <Route
+          path="/bsi"
+          component={() => {
+            window.location.href = "https://bsi.vercel.app/";
+            return null;
+          }}
+        />
+        <Route
           path="/youtube"
           component={() => {
             window.location.href =

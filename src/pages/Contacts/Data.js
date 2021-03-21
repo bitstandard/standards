@@ -8,7 +8,7 @@ export const homeObjOne = {
   buttonLabel: "Meet Edgar",
   imgStart: "start",
   img:
-    "https://github.com/edgarrincon/standards/blob/main/src/images/EdgarCapitolio.jpg?raw=true",
+    "https://github.com/edgarrincon/standards/blob/main/src/img/EdgarCapitolio.jpg?raw=true",
   alt: "Edgar Rincon",
   linkTo: "./edgar",
   buttonSize: "btn--wide",
@@ -25,7 +25,7 @@ export const homeObjTwo = {
   buttonLabel: "Meet Victor",
   imgStart: "",
   img:
-    "https://github.com/edgarrincon/standards/blob/main/src/images/victorLasVegas.jpg?raw=true",
+    "https://github.com/edgarrincon/standards/blob/main/src/img/victorLasVegas.jpg?raw=true",
   alt: "Victor Quintero",
   linkTo: "./victor",
   buttonSize: "btn--wide",
@@ -42,7 +42,7 @@ export const homeObjTheree = {
   buttonLabel: "Take a look",
   imgStart: "start",
   img:
-    "https://github.com/edgarrincon/standards/blob/main/src/images/logo.png?raw=true",
+    "https://github.com/edgarrincon/standards/blob/main/src/img/logo.png?raw=true",
   alt: "Edgar Rincon",
   linkTo: "./",
   buttonSize: "btn--wide",
