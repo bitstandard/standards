@@ -3,10 +3,12 @@ import { Button } from "../Button/Button";
 import "./Pricing.css";
 import { GoPlusSmall } from "react-icons/go";
 import { AiFillHtml5 } from "react-icons/ai";
+import { DiCss3 } from "react-icons/di";
+
 import { DiReact } from "react-icons/di";
 import { DiWordpress } from "react-icons/di";
 import { SiWoo } from "react-icons/si";
-import { RiDonutChartFill } from "react-icons/ri";
+
 import { IconContext } from "react-icons/lib";
 import { Link } from "react-router-dom";
 
@@ -22,14 +24,14 @@ function Pricing() {
                 <div className="icon">
                   <AiFillHtml5 />
                   <GoPlusSmall />
-                  <DiReact />
+                  <DiCss3 />
                 </div>
                 <h3>Essential</h3>
-                <h4>$99</h4>
-                <p>Static Website & React</p>
+                <h4>$199</h4>
+                <p>Static Website</p>
                 <ul className="pricing__container-features">
                   <li>Domain and Hosting (1 year)</li>
-                  <li>Faster with React</li>
+                  <li>Html and CSS informative site</li>
                   <li>Out of the box</li>
                 </ul>
                 <Button buttonSize="btn--wide" buttonColor="yellow">
@@ -43,8 +45,8 @@ function Pricing() {
                   <DiWordpress /> <GoPlusSmall /> <SiWoo />
                 </div>
                 <h3>Professional</h3>
-                <h4>$169</h4>
-                <p>WordPress & WooCommerce</p>
+                <h4>$269</h4>
+                <p>WordPress and eCommerce</p>
                 <ul className="pricing__container-features">
                   <li>Domain and Hosting (1 year)</li>
                   <li>20 eCommerce Products</li>
@@ -59,15 +61,15 @@ function Pricing() {
             <Link to="/contacts" className="pricing__container-card">
               <div className="pricing__container-cardInfo">
                 <div className="icon">
-                  <SiWoo /> <GoPlusSmall /> <RiDonutChartFill />
+                  <DiReact />
                 </div>
                 <h3>Standards</h3>
                 <h4>$299</h4>
-                <p>WooCommerce & Odoo</p>
+                <p>React Site</p>
                 <ul className="pricing__container-features">
-                  <li>All in one for small business</li>
+                  <li>Informative and fast sites</li>
                   <li>Adaptable to your needs</li>
-                  <li>Hosting to be choose</li>
+                  <li>Domain and Hosting (1 year)</li>
                 </ul>
                 <Button buttonSize="btn--wide" buttonColor="yellow">
                   Contact Us

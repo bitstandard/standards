@@ -65,7 +65,7 @@ function App() {
         <Route
           path="/piso"
           component={() => {
-            window.location.href = "http://pisodeportivo.rf.gd/";
+            window.location.href = "https://pisodeportivo.com/";
             return null;
           }}
         />
