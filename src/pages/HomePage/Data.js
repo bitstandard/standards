@@ -2,7 +2,7 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "build your digital products with us",
+  topLine: "we build your digital products",
   headline: "Web Development according to your business needs",
   description:
     "Landing page, eCommerce, magazine, portfolio, blogs, online booking & more",
@@ -19,7 +19,7 @@ export const homeObjTwo = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: " tech to serve people",
+  topLine: "tech to serve people",
   headline: "We make innovative WEBSITES and more",
   description: "Adapts applications to a standardized business process",
   buttonLabel: "Discover it",
