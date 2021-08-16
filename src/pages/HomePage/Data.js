@@ -9,7 +9,7 @@ export const homeObjOne = {
   buttonLabel: "Contact Us",
   imgStart: "",
   img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/853b5c323398672f4a017e1e3e5d4634f0d4c2e9/src/img/astronaut-1.svg",
+    "https://raw.githubusercontent.com/edgarrincon/standards/main/src/img/webpage.svg",
   alt: "Web Page",
   linkTo: "./contacts",
   buttonSize: "btn--wide",
