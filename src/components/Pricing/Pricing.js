@@ -45,7 +45,7 @@ function Pricing() {
                   <DiWordpress /> <GoPlusSmall /> <SiWoo />
                 </div>
                 <h3>Professional</h3>
-                <h4>$269</h4>
+                <h4>$299</h4>
                 <p>WordPress and eCommerce</p>
                 <ul className="pricing__container-features">
                   <li>Domain and Hosting (1 year)</li>
@@ -64,7 +64,7 @@ function Pricing() {
                   <DiReact />
                 </div>
                 <h3>Standards</h3>
-                <h4>$299</h4>
+                <h4>$399</h4>
                 <p>React Site</p>
                 <ul className="pricing__container-features">
                   <li>Informative and fast</li>

@@ -8,8 +8,7 @@ export const homeObjOne = {
     "Landing page, eCommerce, magazine, portfolio, blogs, online booking & more",
   buttonLabel: "Contact Us",
   imgStart: "",
-  img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/6c72fbc825fb386fb4d12717ddfbdbb1d512c808/src/img/webpage.svg",
+  img: "https://raw.githubusercontent.com/edgarrincon/standards/6c72fbc825fb386fb4d12717ddfbdbb1d512c808/src/img/webpage.svg",
   alt: "Web Page",
   linkTo: "./contacts",
   buttonSize: "btn--wide",
@@ -24,8 +23,7 @@ export const homeObjTwo = {
   description: "Adapts applications to a standardized business process",
   buttonLabel: "Discover it",
   imgStart: "start",
-  img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/needs.svg",
+  img: "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/needs.svg",
   alt: "accordin needs",
   linkTo: "./portfolio",
   buttonSize: "btn--wide",
@@ -42,8 +40,7 @@ export const homeObjThree = {
     "Sync Odoo transactions automatically track sales, expenses, deposits, and payments",
   buttonLabel: "Services",
   imgStart: "",
-  img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/ecommerce.svg",
+  img: "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/ecommerce.svg",
   alt: "eCommerce",
   linkTo: "./service",
   buttonSize: "btn--wide",
@@ -60,8 +57,7 @@ export const homeObjFour = {
     "Manage sales, projects, manufacturing, POS, inventory, accounting, HR, marketing, and more into a single software solution.",
   buttonLabel: "meets Odoo",
   imgStart: "start",
-  img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/daterealtime.svg",
+  img: "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/daterealtime.svg",
   alt: "real time date",
   linkTo: "./odoo",
   buttonSize: "btn--wide",
@@ -77,8 +73,7 @@ export const homeObjFive = {
   description: "We will likely give you a hand",
   buttonLabel: "Tell Us",
   imgStart: "",
-  img:
-    "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/anyquestion.svg",
+  img: "https://raw.githubusercontent.com/edgarrincon/standards/98635a0f4d5e5d28a803dba3c1b22883bce6168e/src/img/anyquestion.svg",
   alt: "question?",
   linkTo: "./contacts",
   buttonSize: "btn--wide",

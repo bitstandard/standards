@@ -32,7 +32,21 @@
   margin-top: 8px;
   color: #fff;
   text-align: center;
-  text-shadow: 0.5px #000034;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  animation: typing 5s steps(50, end), step-end infinite;
+  animation-iteration-count: infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 960px) {
