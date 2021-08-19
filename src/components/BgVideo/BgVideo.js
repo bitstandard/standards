@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import NET from "vanta/dist/vanta.net.min";
 import "../../App.css";
 import "./BgVideo.css";
-
+import * as THREE from "three";
 // Make sure window.THREE is defined, e.g. by including three.min.js in the document head using a <script> tag
 
 const Video = (props) => {
@@ -13,6 +13,7 @@ const Video = (props) => {
       setVantaEffect(
         NET({
           el: myRef.current,
+          THREE,
           color: 0xffc928,
           backgroundColor: 0x000034,
         })
