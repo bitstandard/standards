@@ -44,7 +44,7 @@ function App() {
         <Route
           path="/edgar"
           component={() => {
-            window.location.href = "https://edgarrincon.github.io";
+            window.location.href = "https://edgarrincon.com/";
             return null;
           }}
         />
@@ -72,7 +72,7 @@ function App() {
         <Route
           path="/bsi"
           component={() => {
-            window.location.href = "https://bsi.vercel.app/";
+            window.location.href = "https://installbsi.com/";
             return null;
           }}
         />
