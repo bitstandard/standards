@@ -15,6 +15,7 @@ const Video = (props) => {
           THREE,
           color: 0xffc928,
           backgroundColor: 0x000034,
+          points: 12.0,
           spacing: 17.0,
         })
       );
